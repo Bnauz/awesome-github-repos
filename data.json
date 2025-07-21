@@ -1,143 +1,48 @@
 {
-  "Kotlin": [
-    {
-      "id": 956610184,
-      "node_id": "R_kgDOOQS2iA",
-      "name": "PakePlus-Android",
-      "full_name": "Sjj1024/PakePlus-Android",
-      "owner": {
-        "login": "Sjj1024",
-        "id": 48399687,
-        "avatar_url": "https://avatars.githubusercontent.com/u/48399687?v=4",
-        "url": "https://api.github.com/users/Sjj1024",
-        "html_url": "https://github.com/Sjj1024"
-      },
-      "html_url": "https://github.com/Sjj1024/PakePlus-Android",
-      "description": "Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/",
-      "url": "https://api.github.com/repos/Sjj1024/PakePlus-Android",
-      "languages_url": "https://api.github.com/repos/Sjj1024/PakePlus-Android/languages",
-      "created_at": "2025-03-28T14:47:48Z",
-      "updated_at": "2025-07-21T14:37:29Z",
-      "git_url": "git://github.com/Sjj1024/PakePlus-Android.git",
-      "ssh_url": "git@github.com:Sjj1024/PakePlus-Android.git",
-      "clone_url": "https://github.com/Sjj1024/PakePlus-Android.git",
-      "homepage": "https://sjj1024.github.io/PakePlus/",
-      "stargazers_count": 2298,
-      "watchers_count": 2298,
-      "language": "Kotlin",
-      "topics": [
-        "pake",
-        "pakeplus",
-        "tauri",
-        "tauri2"
-      ]
-    }
-  ],
-  "Swift": [
-    {
-      "id": 956609746,
-      "node_id": "R_kgDOOQS00g",
-      "name": "PakePlus-iOS",
-      "full_name": "Sjj1024/PakePlus-iOS",
-      "owner": {
-        "login": "Sjj1024",
-        "id": 48399687,
-        "avatar_url": "https://avatars.githubusercontent.com/u/48399687?v=4",
-        "url": "https://api.github.com/users/Sjj1024",
-        "html_url": "https://github.com/Sjj1024"
-      },
-      "html_url": "https://github.com/Sjj1024/PakePlus-iOS",
-      "description": "Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/",
-      "url": "https://api.github.com/repos/Sjj1024/PakePlus-iOS",
-      "languages_url": "https://api.github.com/repos/Sjj1024/PakePlus-iOS/languages",
-      "created_at": "2025-03-28T14:46:52Z",
-      "updated_at": "2025-07-21T15:39:10Z",
-      "git_url": "git://github.com/Sjj1024/PakePlus-iOS.git",
-      "ssh_url": "git@github.com:Sjj1024/PakePlus-iOS.git",
-      "clone_url": "https://github.com/Sjj1024/PakePlus-iOS.git",
-      "homepage": "https://pakeplus.com/",
-      "stargazers_count": 1233,
-      "watchers_count": 1233,
-      "language": "Swift",
-      "topics": [
-        "ipa",
-        "pake",
-        "pakeplus"
-      ]
-    }
-  ],
-  "Vue": [
-    {
-      "id": 855186891,
-      "node_id": "R_kgDOMvkdyw",
-      "name": "PakePlus",
-      "full_name": "Sjj1024/PakePlus",
-      "owner": {
-        "login": "Sjj1024",
-        "id": 48399687,
-        "avatar_url": "https://avatars.githubusercontent.com/u/48399687?v=4",
-        "url": "https://api.github.com/users/Sjj1024",
-        "html_url": "https://github.com/Sjj1024"
-      },
-      "html_url": "https://github.com/Sjj1024/PakePlus",
-      "description": "Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app",
-      "url": "https://api.github.com/repos/Sjj1024/PakePlus",
-      "languages_url": "https://api.github.com/repos/Sjj1024/PakePlus/languages",
-      "created_at": "2024-09-10T13:12:25Z",
-      "updated_at": "2025-07-21T14:37:28Z",
-      "git_url": "git://github.com/Sjj1024/PakePlus.git",
-      "ssh_url": "git@github.com:Sjj1024/PakePlus.git",
-      "clone_url": "https://github.com/Sjj1024/PakePlus.git",
-      "homepage": "https://sjj1024.github.io/PakePlus",
-      "stargazers_count": 4445,
-      "watchers_count": 4445,
-      "language": "Vue",
-      "topics": [
-        "pake",
-        "pakeplus",
-        "rust",
-        "tauri",
-        "tauri2",
-        "vue3",
-        "webapp"
-      ]
-    }
-  ],
-  "C#": [
-    {
-      "id": 871737004,
-      "node_id": "R_kgDOM_WmrA",
-      "name": "CFnat-Windows-GUI",
-      "full_name": "cmliu/CFnat-Windows-GUI",
-      "owner": {
-        "login": "cmliu",
-        "id": 24787744,
-        "avatar_url": "https://avatars.githubusercontent.com/u/24787744?v=4",
-        "url": "https://api.github.com/users/cmliu",
-        "html_url": "https://github.com/cmliu"
-      },
-      "html_url": "https://github.com/cmliu/CFnat-Windows-GUI",
-      "description": "CFnat 为 Windows 用户设计的 GUI 程序界面。",
-      "url": "https://api.github.com/repos/cmliu/CFnat-Windows-GUI",
-      "languages_url": "https://api.github.com/repos/cmliu/CFnat-Windows-GUI/languages",
-      "created_at": "2024-10-12T19:45:58Z",
-      "updated_at": "2025-07-21T08:08:33Z",
-      "git_url": "git://github.com/cmliu/CFnat-Windows-GUI.git",
-      "ssh_url": "git@github.com:cmliu/CFnat-Windows-GUI.git",
-      "clone_url": "https://github.com/cmliu/CFnat-Windows-GUI.git",
-      "homepage": "",
-      "stargazers_count": 1361,
-      "watchers_count": 1361,
-      "language": "C#",
-      "topics": [
-        "cfnat",
-        "cloudflare",
-        "cloudflare-ip",
-        "cloudflare-ips"
-      ]
-    }
-  ],
   "JavaScript": [
+    {
+      "id": 964428899,
+      "node_id": "R_kgDOOXwEYw",
+      "name": "cftc",
+      "full_name": "iawooo/cftc",
+      "owner": {
+        "login": "iawooo",
+        "id": 203257024,
+        "avatar_url": "https://avatars.githubusercontent.com/u/203257024?v=4",
+        "url": "https://api.github.com/users/iawooo",
+        "html_url": "https://github.com/iawooo"
+      },
+      "html_url": "https://github.com/iawooo/cftc",
+      "description": "[cftc]-基于cloudflare图床,支持tg机器人面板和网页管理,上传,自定义后缀",
+      "url": "https://api.github.com/repos/iawooo/cftc",
+      "languages_url": "https://api.github.com/repos/iawooo/cftc/languages",
+      "created_at": "2025-04-11T07:44:34Z",
+      "updated_at": "2025-07-21T16:11:35Z",
+      "git_url": "git://github.com/iawooo/cftc.git",
+      "ssh_url": "git@github.com:iawooo/cftc.git",
+      "clone_url": "https://github.com/iawooo/cftc.git",
+      "homepage": "",
+      "stargazers_count": 65,
+      "watchers_count": 65,
+      "language": "JavaScript",
+      "topics": [
+        "cftc",
+        "cftc-data",
+        "cftgtc",
+        "cloudflare",
+        "cloudflare-images",
+        "cloudflare-pages",
+        "cloudflare-r2",
+        "cloudflare-telegram-image-hosting",
+        "cloudflare-workers",
+        "free-image-hosting",
+        "image-host",
+        "image-hosting-service",
+        "telegram-bot-api",
+        "telegram-image-hosting-service",
+        "tgtcalenda"
+      ]
+    },
     {
       "id": 661741181,
       "node_id": "R_kgDOJ3FefQ",
@@ -221,64 +126,118 @@
       "watchers_count": 856,
       "language": "JavaScript",
       "topics": []
-    },
+    }
+  ],
+  "Shell": [
     {
-      "id": 762177125,
-      "node_id": "R_kgDOLW3mZQ",
-      "name": "CF-Workers-SUB",
-      "full_name": "cmliu/CF-Workers-SUB",
+      "id": 219897009,
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMTk4OTcwMDk=",
+      "name": "v2ray-agent",
+      "full_name": "mack-a/v2ray-agent",
       "owner": {
-        "login": "cmliu",
-        "id": 24787744,
-        "avatar_url": "https://avatars.githubusercontent.com/u/24787744?v=4",
-        "url": "https://api.github.com/users/cmliu",
-        "html_url": "https://github.com/cmliu"
+        "login": "mack-a",
+        "id": 57424792,
+        "avatar_url": "https://avatars.githubusercontent.com/u/57424792?v=4",
+        "url": "https://api.github.com/users/mack-a",
+        "html_url": "https://github.com/mack-a"
       },
-      "html_url": "https://github.com/cmliu/CF-Workers-SUB",
-      "description": "这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接",
-      "url": "https://api.github.com/repos/cmliu/CF-Workers-SUB",
-      "languages_url": "https://api.github.com/repos/cmliu/CF-Workers-SUB/languages",
-      "created_at": "2024-02-23T08:37:35Z",
-      "updated_at": "2025-07-21T09:28:17Z",
-      "git_url": "git://github.com/cmliu/CF-Workers-SUB.git",
-      "ssh_url": "git@github.com:cmliu/CF-Workers-SUB.git",
-      "clone_url": "https://github.com/cmliu/CF-Workers-SUB.git",
-      "homepage": "https://youtu.be/w6rRY4FDd58",
-      "stargazers_count": 6149,
-      "watchers_count": 6149,
-      "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "id": 736322676,
-      "node_id": "R_kgDOK-NkdA",
-      "name": "edgetunnel",
-      "full_name": "cmliu/edgetunnel",
-      "owner": {
-        "login": "cmliu",
-        "id": 24787744,
-        "avatar_url": "https://avatars.githubusercontent.com/u/24787744?v=4",
-        "url": "https://api.github.com/users/cmliu",
-        "html_url": "https://github.com/cmliu"
-      },
-      "html_url": "https://github.com/cmliu/edgetunnel",
-      "description": "在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。",
-      "url": "https://api.github.com/repos/cmliu/edgetunnel",
-      "languages_url": "https://api.github.com/repos/cmliu/edgetunnel/languages",
-      "created_at": "2023-12-27T15:37:22Z",
-      "updated_at": "2025-07-21T15:27:34Z",
-      "git_url": "git://github.com/cmliu/edgetunnel.git",
-      "ssh_url": "git@github.com:cmliu/edgetunnel.git",
-      "clone_url": "https://github.com/cmliu/edgetunnel.git",
-      "homepage": "",
-      "stargazers_count": 21830,
-      "watchers_count": 21830,
-      "language": "JavaScript",
+      "html_url": "https://github.com/mack-a/v2ray-agent",
+      "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+      "url": "https://api.github.com/repos/mack-a/v2ray-agent",
+      "languages_url": "https://api.github.com/repos/mack-a/v2ray-agent/languages",
+      "created_at": "2019-11-06T02:41:38Z",
+      "updated_at": "2025-07-21T16:09:09Z",
+      "git_url": "git://github.com/mack-a/v2ray-agent.git",
+      "ssh_url": "git@github.com:mack-a/v2ray-agent.git",
+      "clone_url": "https://github.com/mack-a/v2ray-agent.git",
+      "homepage": "https://www.592083.xyz",
+      "stargazers_count": 16298,
+      "watchers_count": 16298,
+      "language": "Shell",
       "topics": [
+        "cloudflare",
+        "grpc-cloudflare",
+        "httpupgrade",
+        "hysteria2",
+        "nginx",
+        "reality",
+        "reality-grpc",
+        "shell",
+        "sing-box",
+        "trojan",
+        "trojan-grpc",
+        "tuic-v5",
         "v2ray",
-        "v2ray-worker",
         "vless",
-        "vless-ws-tls"
+        "vmess",
+        "websockettlscdn-cloudflare-ip",
+        "xray",
+        "xray-core",
+        "xray-install",
+        "xtls-rprx-vision"
+      ]
+    }
+  ],
+  "TypeScript": [
+    {
+      "id": 1003832251,
+      "node_id": "R_kgDOO9VDuw",
+      "name": "MoonTV",
+      "full_name": "senshinya/MoonTV",
+      "owner": {
+        "login": "senshinya",
+        "id": 155552943,
+        "avatar_url": "https://avatars.githubusercontent.com/u/155552943?v=4",
+        "url": "https://api.github.com/users/senshinya",
+        "html_url": "https://github.com/senshinya"
+      },
+      "html_url": "https://github.com/senshinya/MoonTV",
+      "description": "一个开箱即用的、跨平台的影视聚合播放站",
+      "url": "https://api.github.com/repos/senshinya/MoonTV",
+      "languages_url": "https://api.github.com/repos/senshinya/MoonTV/languages",
+      "created_at": "2025-06-17T18:26:49Z",
+      "updated_at": "2025-07-21T16:04:50Z",
+      "git_url": "git://github.com/senshinya/MoonTV.git",
+      "ssh_url": "git@github.com:senshinya/MoonTV.git",
+      "clone_url": "https://github.com/senshinya/MoonTV.git",
+      "homepage": "https://github.com/senshinya/MoonTV",
+      "stargazers_count": 4918,
+      "watchers_count": 4918,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ],
+  "C#": [
+    {
+      "id": 871737004,
+      "node_id": "R_kgDOM_WmrA",
+      "name": "CFnat-Windows-GUI",
+      "full_name": "cmliu/CFnat-Windows-GUI",
+      "owner": {
+        "login": "cmliu",
+        "id": 24787744,
+        "avatar_url": "https://avatars.githubusercontent.com/u/24787744?v=4",
+        "url": "https://api.github.com/users/cmliu",
+        "html_url": "https://github.com/cmliu"
+      },
+      "html_url": "https://github.com/cmliu/CFnat-Windows-GUI",
+      "description": "CFnat 为 Windows 用户设计的 GUI 程序界面。",
+      "url": "https://api.github.com/repos/cmliu/CFnat-Windows-GUI",
+      "languages_url": "https://api.github.com/repos/cmliu/CFnat-Windows-GUI/languages",
+      "created_at": "2024-10-12T19:45:58Z",
+      "updated_at": "2025-07-21T08:08:33Z",
+      "git_url": "git://github.com/cmliu/CFnat-Windows-GUI.git",
+      "ssh_url": "git@github.com:cmliu/CFnat-Windows-GUI.git",
+      "clone_url": "https://github.com/cmliu/CFnat-Windows-GUI.git",
+      "homepage": "",
+      "stargazers_count": 1361,
+      "watchers_count": 1361,
+      "language": "C#",
+      "topics": [
+        "cfnat",
+        "cloudflare",
+        "cloudflare-ip",
+        "cloudflare-ips"
       ]
     }
   ]
