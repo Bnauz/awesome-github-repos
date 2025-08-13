@@ -5,7 +5,6 @@
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
-*   [TypeScript](#typescript)
 *   [C#](#c)
 
 ## Kotlin
@@ -25,10 +24,6 @@
 ## Shell
 
 *   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-
-## TypeScript
-
-*   [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
 
 ## C\#
 
