@@ -2,10 +2,15 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [C#](#c)
+
+## Python
+
+*   [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
 
 ## Kotlin
 
