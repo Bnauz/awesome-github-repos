@@ -2,11 +2,16 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [C#](#c)
+
+## TypeScript
+
+*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 
 ## Shell
 
