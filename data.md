@@ -32,7 +32,7 @@
 
 ## Shell
 
-*   [buyi06/-Linux-](https://github.com/buyi06/-Linux-) - 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
+*   [buyi06/optimize\_extreme](https://github.com/buyi06/optimize_extreme) - 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
 
 *   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
