@@ -2,48 +2,48 @@
 
 ## Table of Contents
 
-*   [Go](#go)
-*   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
-*   [Shell](#shell)
-*   [Python](#python)
-*   [miscellaneous](#miscellaneous)
-*   [C#](#c)
+* [Go](#go)
+* [JavaScript](#javascript)
+* [TypeScript](#typescript)
+* [Shell](#shell)
+* [Python](#python)
+* [miscellaneous](#miscellaneous)
+* [C#](#c)
 
 ## Go
 
-*   [isboyjc/GoProxy](https://github.com/isboyjc/GoProxy) - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。
+* [isboyjc/GoProxy](https://github.com/isboyjc/GoProxy) - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。
 
 ## JavaScript
 
-*   [XiaoQ-xwx/Ziq\_RRVG\_Bot](https://github.com/XiaoQ-xwx/Ziq_RRVG_Bot) -
+* [XiaoQ-xwx/Ziq\_RRVG\_Bot](https://github.com/XiaoQ-xwx/Ziq_RRVG_Bot) -
 
-*   [iawooo/cftc](https://github.com/iawooo/cftc) - \[cftc]-基于cloudflare图床,支持tg机器人面板和网页管理,上传,自定义后缀
+* [iawooo/cftc](https://github.com/iawooo/cftc) - \[cftc]-基于cloudflare图床,支持tg机器人面板和网页管理,上传,自定义后缀
 
-*   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
+* [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
 
-*   [cmliu/epeius](https://github.com/cmliu/epeius) - 在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+* [cmliu/epeius](https://github.com/cmliu/epeius) - 在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
-*   [cmliu/CF-Workers-TEXT2KV](https://github.com/cmliu/CF-Workers-TEXT2KV) - 这个是一个通过 Cloudflare Workers 搭建，将文本文件存储到 Cloudflare Workers KV 键值存储中，并且可以通过 URL 请求读取或更新这些文本文件。
+* [cmliu/CF-Workers-TEXT2KV](https://github.com/cmliu/CF-Workers-TEXT2KV) - 这个是一个通过 Cloudflare Workers 搭建，将文本文件存储到 Cloudflare Workers KV 键值存储中，并且可以通过 URL 请求读取或更新这些文本文件。
 
 ## TypeScript
 
-*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
+* [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 
 ## Shell
 
-*   [buyi06/optimize\_extreme](https://github.com/buyi06/optimize_extreme) - 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
+* [buyi06/optimize\_extreme](https://github.com/buyi06/optimize_extreme) - 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
 
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+* [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
 ## Python
 
-*   [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
+* [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
 
 ## miscellaneous
 
-*   [hectorqin/reader](https://github.com/hectorqin/reader) -
+* [hectorqin/reader](https://github.com/hectorqin/reader) -
 
 ## C\#
 
-*   [cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI) - CFnat 为 Windows 用户设计的 GUI 程序界面。
+* [cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI) - CFnat 为 Windows 用户设计的 GUI 程序界面。
